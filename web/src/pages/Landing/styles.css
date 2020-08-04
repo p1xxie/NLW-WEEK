@@ -63,3 +63,23 @@ margin-top: 0.8rem;
 .buttons-container a.give-classes{
 background: #04D361;    
 }
+
+.buttons-container a.study:hover{
+    background:  #916BEA;   
+   }
+
+   .buttons-container a.give-classes:hover{
+    background: #04D361;    
+    }
+
+
+    .total-connections img {
+     margin-left: 0.8rem;
+    }
+
+    @media  (min-witdh:1100px){
+        #page-landing-content {
+            
+        }
+
+    }  
